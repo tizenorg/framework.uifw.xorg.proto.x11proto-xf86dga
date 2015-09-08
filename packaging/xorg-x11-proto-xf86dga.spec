@@ -1,7 +1,7 @@
 Name:     xorg-x11-proto-xf86dga
 Summary:  X.Org X11 Protocol xf86dgaproto
 Version:  2.1
-Release:  1
+Release:  2
 Group:    Development/System
 License:  MIT
 URL:      http://www.x.org
